@@ -1,4 +1,4 @@
-![Gaveshika Nirmani — Data Science Undergraduate at SLTC, exploring AI and building useful applications](assets/profile-header.svg)
+![Gaveshika Nirmani — Data Science Undergraduate at SLTC, exploring AI and building useful applications](profile-header.svg)
 
 <p align="center">
   <a href="https://gavinirmani.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-E5AA45?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0C111B" /></a>
