@@ -1,10 +1,33 @@
-![Gaveshika Nirmani — Data Science Undergraduate at SLTC, exploring AI and building useful applications](profile-header.svg)
+![Gaveshika Nirmani — Data Science Undergraduate and AI Enthusiast](profile-header.svg)
 
 <p align="center">
-  <a href="https://gavinirmani.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-E5AA45?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0C111B" /></a>
-  <a href="https://www.linkedin.com/in/gaveshika-nirmani-827443301/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-176CA4?style=for-the-badge" /></a>
-  <a href="https://github.com/gavinirmani?tab=repositories"><img alt="View Projects" src="https://img.shields.io/badge/VIEW_PROJECTS-242D3B?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://gavinirmani.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-F2F2F2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=111111" /></a>
+<a href="https://www.linkedin.com/in/gaveshika-nirmani-827443301/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge" /></a>
+<a href="https://github.com/gavinirmani?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/PROJECTS-222222?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 </p>
+
+![About: Gaveshika Nirmani, Data Science undergraduate at SLTC, Sri Lanka. Exploring AI, analytics, software development, and design.](about.svg)
+
+![Technology stack: Python, Java, JavaScript, SQL, HTML5, CSS3, Spring Boot, MySQL, Power BI, Git, GitHub, Postman, and Canva.](skills.svg)
+
+![Projects: Gavi 2.0 AI Agent, SmartCare hospital management backend, Student Record Management desktop app, and To-Do List App.](projects.svg)
+
+<p align="center">
+<a href="https://github.com/gavinirmani/Gavi-2.0-AI-Agent">Gavi 2.0</a> ·
+<a href="https://github.com/gavinirmani/smartcare_hospital_system">SmartCare</a> ·
+<a href="https://github.com/gavinirmani/Student-Record-Management-System">Student Records</a> ·
+<a href="https://github.com/gavinirmani/todo-list-app">To-Do List</a>
+</p>
+
+![Learning: data analytics with Python, SQL, and Power BI; AI agent tool use and memory; API design, database modeling, validation, and maintainability.](learning.svg)
+
+<p align="center">
+<a href="https://gavinirmani.github.io/">Visit my portfolio</a> ·
+<a href="https://www.linkedin.com/in/gaveshika-nirmani-827443301/">Connect on LinkedIn</a>
+</p>
+
+<details>
+<summary>Read the text version</summary>
 
 ## About
 
@@ -21,25 +44,25 @@ My focus is on strengthening my technical foundations while building application
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-182536?style=flat-square&logo=python&logoColor=FFD166)
-![Java](https://img.shields.io/badge/Java-182536?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-182536?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-182536?style=flat-square)
+
+
+
+
 
 **Web, backend & databases**
 
-![HTML5](https://img.shields.io/badge/HTML5-182536?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-182536?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-182536?style=flat-square&logo=springboot&logoColor=6DB33F)
-![MySQL](https://img.shields.io/badge/MySQL-182536?style=flat-square&logo=mysql&logoColor=66B5E8)
+
+
+
+
 
 **Analytics, development & design tools**
 
-![Power BI](https://img.shields.io/badge/Power_BI-182536?style=flat-square)
-![Git](https://img.shields.io/badge/Git-182536?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-182536?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-182536?style=flat-square&logo=postman&logoColor=FF6C37)
-![Canva](https://img.shields.io/badge/Canva-182536?style=flat-square&logo=canva&logoColor=00C4CC)
+
+
+
+
+
 
 ## Selected projects
 
@@ -65,3 +88,7 @@ Visit my **[portfolio](https://gavinirmani.github.io/)** to explore my work, or 
 ---
 
 <p align="center"><sub>Gaveshika Nirmani · Data Science · AI · Software Development</sub></p>
+
+
+</details>
+
