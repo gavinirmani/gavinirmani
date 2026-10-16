@@ -10,7 +10,7 @@
 
 ![Technology stack: Python, Java, JavaScript, SQL, HTML5, CSS3, Spring Boot, MySQL, Power BI, Git, GitHub, Postman, and Canva.](skills.svg)
 
-![Projects: Gavi 2.0 AI Agent, SmartCare hospital management backend, Student Record Management desktop app, To-Do List App, Personal Portfolio, and Internship Project data analysis.](projects.svg)
+![Projects: Gavi 2.0 AI Agent, SmartCare hospital management backend, Student Record Management desktop app, To-Do List App, Personal Portfolio, and Internship Project data analysis.]((projects.svg?v=3))
 
 <p align="center">
 <a href="https://github.com/gavinirmani/Gavi-2.0-AI-Agent">Gavi 2.0</a> ·
