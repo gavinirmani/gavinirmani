@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490">
+<defs>
+  <radialGradient id="gold"><stop stop-color="#b47714" stop-opacity=".32"/><stop offset="1" stop-color="#b47714" stop-opacity="0"/></radialGradient>
+  <radialGradient id="blue"><stop stop-color="#167bd0" stop-opacity=".34"/><stop offset="1" stop-color="#167bd0" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a2adc1" stroke-opacity=".045"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="488" rx="24" fill="#0c111b" stroke="#293241"/>
+<rect x="2" y="2" width="1196" height="486" rx="24" fill="url(#grid)"/>
+<ellipse cx="1020" cy="100" rx="300" ry="270" fill="url(#gold)"/>
+<ellipse cx="160" cy="450" rx="430" ry="270" fill="url(#blue)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<circle cx="49" cy="42" r="4" fill="#e5aa45"/>
+<text x="63" y="47" font-size="11" fill="#afbacb" letter-spacing="2">GAVESHIKA NIRMANI</text>
+<text x="1150" y="47" text-anchor="end" font-size="11" fill="#afbacb" letter-spacing="1.4">SRI LANKA · DATA / AI / SOFTWARE</text>
+<text x="48" y="124" fill="#e5aa45" font-size="12" letter-spacing="3">HELLO WORLD, I'M</text>
+<text x="45" y="192" font-size="64" font-weight="700" fill="#faf7ef">Gaveshika</text>
+<text x="45" y="260" font-size="64" font-weight="700" fill="#e5aa45">Nirmani</text>
+<rect x="48" y="291" width="3" height="46" rx="1.5" fill="#e5aa45"/>
+<text x="65" y="310" fill="#f0f3f8" font-size="20" font-weight="600">Data Science Undergraduate</text>
+<text x="65" y="334" fill="#a8b6c9" font-size="14">Exploring AI. Building useful applications.</text>
+<g font-size="11" font-weight="600">
+<rect x="48" y="363" width="124" height="28" rx="14" fill="#352c20" stroke="#665032"/><text x="110" y="381" text-anchor="middle" fill="#e8ba70">DATA SCIENCE</text>
+<rect x="182" y="363" width="108" height="28" rx="14" fill="#122c46" stroke="#254a6c"/><text x="236" y="381" text-anchor="middle" fill="#8bc2ed">AI AGENTS</text>
+<rect x="300" y="363" width="112" height="28" rx="14" fill="#1d2430" stroke="#354152"/><text x="356" y="381" text-anchor="middle" fill="#c3cede">DEVELOPMENT</text>
+</g>
+<text x="48" y="445" font-size="12" fill="#93a6bd">SLTC · Learning through hands-on projects</text>
+<circle cx="937" cy="131" r="48" fill="none" stroke="#d6a34e" stroke-opacity=".22"/>
+<text x="937" y="141" text-anchor="middle" font-size="29" font-weight="700" fill="#efd5a6">&lt;/&gt;</text>
+<rect x="623" y="211" width="529" height="222" rx="12" fill="#090e17" stroke="#2b3443"/>
+<path d="M635 211H1140Q1152 211 1152 223V245H623V223Q623 211 635 211" fill="#19212e"/>
+<circle cx="644" cy="228" r="4" fill="#ef7068"/><circle cx="660" cy="228" r="4" fill="#e8be59"/><circle cx="676" cy="228" r="4" fill="#66c28a"/>
+<text x="1132" y="232" text-anchor="end" font-size="11" fill="#93a1b7">gaveshika — profile</text>
+</g>
+<g font-family="Consolas, 'Courier New', monospace" font-size="13">
+<text x="645" y="277" fill="#6fce97">$ whoami</text>
+<text x="645" y="301" fill="#b1bed1">Data science student. Curious builder.</text>
+<text x="645" y="334" fill="#6fce97">$ cat interests.json</text>
+<text x="645" y="359" fill="#e8ba70">["Data", "AI", "Software", "Design"]</text>
+<text x="645" y="396" fill="#84b8e4">&gt; Learning by building</text>
+<rect x="822" y="384" width="7" height="14" fill="#e5aa45"/>
+</g>
+</svg>
